@@ -4,7 +4,7 @@ Lockphish it's the first tool (05/13/2020) for phishing attacks on the lock scre
 
 ## Author: https://github.com/Avenge-hacker/Lockphish
 
-![](https://ibin.co/5MP4i0u999Op.png)
+![Screenshot 2020-12-27 21:07:33](https://user-images.githubusercontent.com/76620513/103174398-cf432100-4887-11eb-84a6-6a66d04d2250.png)
 
 ### Features:
 
